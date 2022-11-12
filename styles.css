@@ -1,0 +1,56 @@
+/* styles.css */
+
+h1 {
+    color: aqua;
+    background-color: black;
+}
+
+.recipe-names {
+    color: blue;
+}
+
+.recipe-namesbg {
+    background-color: aliceblue;
+}
+
+#heading {
+    background-color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+#turkey {
+    height: auto;
+    width: 500px;
+}
+
+img {
+    height: auto;
+    width: 450px;
+}
+
+#lobster {
+    height: 300px;
+    width: auto;
+}
+h3 {
+    color: red;
+    background-color: black;
+}
+h5 {
+    color: black;
+    background-color: brown;
+}
+
+p {
+    color: black;
+    background-color: brown;
+}
+
+ol {
+    background-color: brown;
+}
+ul {
+    background-color: brown;
+}
